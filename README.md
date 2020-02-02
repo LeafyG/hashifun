@@ -1,0 +1,2 @@
+# hashifun
+learning hashi stuf
